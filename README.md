@@ -164,19 +164,19 @@ tqdm
 
 ---
 
----
-
 ## 🧾 AI Usage Log
 
-This section records the use of AI tools throughout the project development.
+I used AI tools in a limited and responsible way during this project to improve clarity and organization.  
+Below is a short record of how AI was used:
 
-| Date | AI Tool | Purpose | Output Used |
-|------|----------|----------|--------------|
-| Oct 2025 | ChatGPT (GPT-5) | Assisted in structuring project proposal and README layout | Used to generate initial draft, later refined manually |
-| Oct 2025 | ChatGPT (GPT-5) | Clarified technical terminology and evaluation metrics | Incorporated refined explanations |
-| Nov 2025 | ChatGPT (GPT-5) | Provided code scaffolding for `train.py` and `infer.py` | Used base structure, customized implementation manually |
+| Date | AI Tool | How I Used It | What I Did After |
+|------|----------|---------------|------------------|
+| Oct 2025 | ChatGPT (GPT-5) | Helped me organize my project plan and write the README layout | I edited all content and verified every section myself |
+| Oct 2025 | ChatGPT (GPT-5) | Explained some technical terms (like transfer learning, metrics) in simple words | I rephrased them in my own style |
+| Oct 2025 | ChatGPT (GPT-5) | Suggested example code structure for training and inference scripts | I customized and wrote the actual code myself |
 
-> Note: All content was reviewed, rewritten, and verified by **Somayeh Choboderazi** before submission.
+> I used AI only for guidance and explanation. All writing, editing, and final decisions were done by **Somayeh Choboderazi**.
+
 
 ---
 
