@@ -164,6 +164,36 @@ tqdm
 
 ---
 
+---
+
+## 🧾 AI Usage Log
+
+This section records the use of AI tools throughout the project development.
+
+| Date | AI Tool | Purpose | Output Used |
+|------|----------|----------|--------------|
+| Oct 2025 | ChatGPT (GPT-5) | Assisted in structuring project proposal and README layout | Used to generate initial draft, later refined manually |
+| Oct 2025 | ChatGPT (GPT-5) | Clarified technical terminology and evaluation metrics | Incorporated refined explanations |
+| Nov 2025 | ChatGPT (GPT-5) | Provided code scaffolding for `train.py` and `infer.py` | Used base structure, customized implementation manually |
+
+> Note: All content was reviewed, rewritten, and verified by **Somayeh Choboderazi** before submission.
+
+---
+
+## ✅ Evaluation Criteria (Instructor Rubric Reference)
+
+| Component | Description |
+|------------|--------------|
+| **Problem & Solution Clarity** | Defines a real problem with a clear, feasible solution |
+| **Technical Approach** | Appropriate use of Computer Vision / ML methods and tools |
+| **Data Plan & Feasibility** | Achievable with available datasets and resources |
+| **Organization & Timeline** | Logical week-by-week plan with milestones |
+| **Presentation Quality** | Professional slides, clear and concise communication |
+| **GitHub Setup** | Proper repository structure, documentation, and licensing |
+| **Creativity & Originality** | Demonstrates innovative or well-scoped application |
+
+---
+
 ## 🔗 Citations & References
 1. He, K., Zhang, X., Ren, S., & Sun, J. (2015). *Deep Residual Learning for Image Recognition (ResNet)*. CVPR.  
 2. PyTorch (2025). *Documentation*. https://pytorch.org  
