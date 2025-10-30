@@ -1,0 +1,5 @@
+data/README.md
+notebooks/01_exploration.ipynb (empty or note)
+src/train.py
+src/infer.py
+src/utils.py
